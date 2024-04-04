@@ -1,6 +1,6 @@
 # Netflix-Clone
 
-#I have developed a Netflix clone using HTML, CSS, and JavaScript. Please find the images below for a preview.
+I have developed a Netflix Homepage clone using HTML, CSS, and JavaScript. Please find the images below for a preview.
 
 ![Screenshot (68)](https://github.com/sharvari-mangale/Netflix-Clone/assets/88763391/b2c884b5-0391-42ec-b8f0-d0e2df81c443)
 
